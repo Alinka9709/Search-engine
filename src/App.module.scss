@@ -1,0 +1,30 @@
+.inputBlock{
+    
+    width: 200px;
+    height: 30px;
+    border: 1px solid gray;
+    
+  }
+  .button{
+      color: black;
+   background: white;
+    width: 91px;
+    height: 36px;
+    border: 1px solid gray;
+    
+   }
+   a{
+     
+       text-decoration: none;
+       display: flex;
+       flex-direction: column;
+       color: black;
+       font-size: 20px;
+       line-height: 34px;
+    
+   }
+    
+      a:hover {
+        color:violet
+      }
+   
